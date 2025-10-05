@@ -1,2 +1,1 @@
-# Viva
-The source code for my project, Viva
+Viva was released on March 21st, 2024, and I have since published the source code.
